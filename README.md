@@ -25,4 +25,6 @@ I am including my best results on this repo as well.
 - 📏 **Evaluate Your Results**: Included metrics like **PSNR** (Peak Signal-to-Noise Ratio) and **SSIM** (Structural Similarity Index) help you quantify the quality of your denoised images.
 - 📷 **Sample Outputs**: See what denoising looks like in action with our included output examples.
 - 🚀 **Get Started Quickly**: Preloaded data and simple-to-follow scripts make it easy to dive in and test your own denoising algorithms.
+# **Sample output, more in the main directory, use Jupyter Notebook template to emulate**
+![sample processed image](5_combined.png)
 
