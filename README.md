@@ -29,5 +29,7 @@ Chest X-ray data can be obtained from Stanford's CheXpert databse:( [CheXpert:Ch
 - 📷 **Sample Outputs**: See what denoising looks like in action with our included output examples.
 - 🚀 **Get Started Quickly**: Preloaded data and simple-to-follow scripts make it easy to dive in and test your own denoising algorithms.
 # **Sample output, more in the main directory, use Jupyter Notebook template to emulate**
-!( [Sample Image](https://github.com/VoteLadder/denoise/blob/main/Denoised%20Samples/5_combined.png))
+![Sample Image](https://github.com/VoteLadder/denoise/raw/main/Denoised%20Samples/5_combined.png)
+# Noisy image on left, reconstructed in the middle and original on the right.
+
 
